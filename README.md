@@ -1,2 +1,2 @@
 # hiperfect
-Wordpress responsive theme
+Responsive BS5 Theme for educational purpose
